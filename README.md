@@ -4,4 +4,4 @@ My goal is to analyze how different musical structures convey human emotions and
 
 Tech/skill
 "import streamlit as st" for loads the library that turns my python code into web application. 
-"import librosa" is industry standard library for music and aduio analysis and this is for analyze pattern. 
+librosa is the industry-standard library for music and audio analysis. It is used to extract rhythmic patterns from Samulnori audio, while librosa.display explicitly loads the visualization module to plot acoustic waveforms."
